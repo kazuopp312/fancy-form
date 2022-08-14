@@ -1,0 +1,5 @@
+npm init -y
+npm i node-sass
+npm run sass
+
+input required 必須項目
